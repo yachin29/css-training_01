@@ -1,7 +1,7 @@
 # css-training_01
 このリポジトリはCSSの基礎〜中級辺りまでの演習用リポジトリです。  
 このreadmeファイルにやるべき事が記載されているので、しっかり読みましょう。  
-[画像はここの仮画像を使用](https://placehold.jp/#advanced-tab). 
+[画像はここの仮画像を使用](https://placehold.jp/#advanced-tab)  
 [文字を可変にするジェネレーター](https://min-max-calculator.9elements.com/?24,34,390,1200)
 
 ## 1.Gridレイアウトを学ぶ. 
